@@ -1,0 +1,15 @@
+{
+    "name": "modernoop/pph23calculator",
+    "description": "Ini adalah program php untuk menghitung pph atau pajak",
+    "authors": [
+        {
+            "name": "dxdsam"
+        }
+    ],
+    "require": {},
+    "autoload" : {
+        "psr-4": {
+        "ModernOOP\\StudiKasus\\PPH23Calculator\\": "src/"
+        }
+    }
+}
